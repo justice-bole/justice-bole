@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out some of my projects at [https://justice-bole.github.io/justice-bole-website/](https://justice-bole.github.io/justice-bole-website/)
 
-- 💬 Ask me about **Unity, Unreal Engine,**
+- 💬 Ask me about **Unity, Unreal Engine**
 
 - 📫 How to reach me **justicebole@yahoo.com**
 
