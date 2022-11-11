@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justice Bole</h1>
-<h3 align="center">A passionate Software Developer from America</h3>
+<h3 align="center">A passionate Software Engineer from America</h3>
 
 - 🔭 I’m currently working on [Dodger - A frantic endless runner written in C++, using the raylib graphics library.](https://github.com/justice-bole/Raylib/tree/main/Dodger)
 
