@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Dodger - A frantic endless runner written in C++, using the raylib graphics library.](https://github.com/justice-bole/Raylib/tree/main/Dodger)
 
-- 🌱 I’m currently learning **The finer details of C++, algorithms, and design patterns.**
-
 - 👨‍💻 Check out some of my projects at [https://justice-bole.github.io/justice-bole-website/](https://justice-bole.github.io/justice-bole-website/)
 
 - 💬 Ask me about **Unity, Unreal Engine**
