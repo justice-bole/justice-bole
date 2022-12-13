@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Justice Bole</h1>
 <h3 align="center">A passionate Software Engineer from America</h3>
 
-- 🔭 I’m currently working on [Dodger - A frantic endless runner written in C++, using the raylib graphics library.](https://github.com/justice-bole/Raylib/tree/main/Dodger)
+- 🔭 I’m currently working on [7DFPS - An FPS made in one week. (Details to come)](https://github.com/justice-bole/7DFPS-Game)
 
 - 👨‍💻 Check out some of my projects at [https://justice-bole.github.io/justice-bole-website/](https://justice-bole.github.io/justice-bole-website/)
 
-- 💬 Ask me about **Unity, Unreal Engine**
+- 💬 Ask me about **Unity, Unreal Engine, Raylib**
 
 - 📫 How to reach me **justicebole@yahoo.com**
 
