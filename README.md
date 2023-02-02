@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Justice Bole</h1>
-<h3 align="center">A passionate Software Engineer from America</h3>
+<h3 align="center">A passionate Software Engineer based in Ohio</h3>
 
 - 🔭 I’m currently working on [7DFPS - An FPS made in one week. (Details to come)](https://github.com/justice-bole/7DFPS-Game)
 
