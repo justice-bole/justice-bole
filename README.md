@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Justice Bole</h1>
 <h3 align="center">A passionate Software Engineer based in Ohio</h3>
 
-- 🔭 I’m currently working on [7DFPS - An FPS made in one week. (Details to come)](https://github.com/justice-bole/7DFPS-Game)
+- 🔭 I’m currently working on full stack web applications with PHP/Laravel.
 
-- 👨‍💻 Check out some of my projects at [https://justice-bole.github.io/justice-bole-website/](https://justice-bole.github.io/justice-bole-website/)
+- ✍️ I'm also working on a personal blog/devlog website in my spare time. Hopefully I'll have it up and a link to it here soon!
 
-- 💬 Ask me about **Unity, Unreal Engine, Raylib**
+- 👨‍💻 Check out some of my projects at [https://justicebole.com](https://justicebole.com)
+
+- 💬 Ask me about **Unity, Unreal Engine, Raylib, Godot, Laravel, Flutter**
+- 💡 I love learning new frameworks and growing my developer toolkit. If there are any frameworks or languages you think I should check out share them with me!
 
 - 📫 How to reach me **justicebole@yahoo.com**
+
+- 📖 I'm currently reading "Think Like a Programmer An Introduction to Creative Problem Solving" by V. Anton Spraul.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
