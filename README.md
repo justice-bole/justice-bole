@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on creating a 2D game and custom engine using SFML.
 
-- ✍️ I'm also working on a personal blog/devlog website in my spare time. Hopefully I'll have it up and a link to it here soon!
+- ✍️ I'm working on a personal blog/devlog website in my spare time. Hopefully I'll have it up and a link to it here soon!
 
 - 👨‍💻 Check out some of my projects at [https://justicebole.com](https://justicebole.com)
 
